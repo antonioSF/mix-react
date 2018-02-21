@@ -1,0 +1,1 @@
+# React with laravel-mix bundle
